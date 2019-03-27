@@ -1,0 +1,1 @@
+﻿Add-migration InitialCreate -o Data/Migraciones

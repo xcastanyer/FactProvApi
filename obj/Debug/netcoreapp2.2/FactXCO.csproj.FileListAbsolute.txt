@@ -1,0 +1,14 @@
+C:\Users\Xavier Castanyer\source\repos\FactXCO\FactXCO\bin\Debug\netcoreapp2.2\FactXCO.deps.json
+C:\Users\Xavier Castanyer\source\repos\FactXCO\FactXCO\bin\Debug\netcoreapp2.2\FactXCO.runtimeconfig.json
+C:\Users\Xavier Castanyer\source\repos\FactXCO\FactXCO\bin\Debug\netcoreapp2.2\FactXCO.runtimeconfig.dev.json
+C:\Users\Xavier Castanyer\source\repos\FactXCO\FactXCO\bin\Debug\netcoreapp2.2\FactXCO.dll
+C:\Users\Xavier Castanyer\source\repos\FactXCO\FactXCO\obj\Debug\netcoreapp2.2\FactXCO.csproj.CoreCompileInputs.cache
+C:\Users\Xavier Castanyer\source\repos\FactXCO\FactXCO\obj\Debug\netcoreapp2.2\FactXCO.RazorAssemblyInfo.cache
+C:\Users\Xavier Castanyer\source\repos\FactXCO\FactXCO\obj\Debug\netcoreapp2.2\FactXCO.RazorAssemblyInfo.cs
+C:\Users\Xavier Castanyer\source\repos\FactXCO\FactXCO\obj\Debug\netcoreapp2.2\FactXCO.AssemblyInfoInputs.cache
+C:\Users\Xavier Castanyer\source\repos\FactXCO\FactXCO\obj\Debug\netcoreapp2.2\FactXCO.AssemblyInfo.cs
+C:\Users\Xavier Castanyer\source\repos\FactXCO\FactXCO\obj\Debug\netcoreapp2.2\FactXCO.RazorTargetAssemblyInfo.cache
+C:\Users\Xavier Castanyer\source\repos\FactXCO\FactXCO\bin\Debug\netcoreapp2.2\FactXCO.pdb
+C:\Users\Xavier Castanyer\source\repos\FactXCO\FactXCO\obj\Debug\netcoreapp2.2\FactXCO.dll
+C:\Users\Xavier Castanyer\source\repos\FactXCO\FactXCO\obj\Debug\netcoreapp2.2\FactXCO.pdb
+C:\Users\Xavier Castanyer\source\repos\FactXCO\FactXCO\obj\Debug\netcoreapp2.2\FactXCO.csprojAssemblyReference.cache
